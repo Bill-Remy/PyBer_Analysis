@@ -27,14 +27,30 @@ A graphical representation of our results is shown below.  The graph segments fa
 
 <img src="analysis/Pyber Challenge Fare by City Type.png" alt="analysis/Pyber Challenge Fare by City Type.png" width="1000">
 
+# Summary and Recomendations
 As we know, our business model and revenue are driven by two factors:
 - Population density which drives number of rides or ride frequency
 - Geographic location which drives ride distance.
 
-The summary table clearly shows how the volume of rides increases by more than 10x from Rural to Urban areas.  But the average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  In fact the average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers.  
+The summary table clearly shows how the volume of rides increases by more than 10x from Rural to Urban areas.  But the average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  In fact the average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers. 
 
+Average fare per driver is substantially higher in the Rural cities.  Fare per driver is approximately 3.5x higher for Rural drivers driven by the low number of drivers and distance of rides.  The Urban drivers have a relatively low fare per ride and there is risk of driver turnover due to possible low compensation.  Their market is comprised of mostly shorter rides and if there are too many available drivers they might receive fewer rides.
 
+Recommendations for the CEO are as follows:
+## Additional Analysis
+In order to better understand the market the following analysis should be initiated:
+- Determine the revenue or fare per ride mile by city type
+- Number of rides per day by driver by city type
+- Expand the data time frame or horizon - minimum of one year 
 
+## Revenue Growth
+-Continue to expand primarily in Urban cities with secondary consideration to Suburban cities.
+-Limit Rural growth to areas that are geographic extensions of existing Urban or Suburban servied cities.
 
+##  Managing the Revenue Stream
+- Establish key performance indicators by geography and driver group for both quantity of rides and quality of service.
+- Build dashboards to track KPIs
+- Establish weekly and monthly reviews.  
+  - Weekly reviews should have a tactical focus and include any corrective aciton based on variations from expected outcomes.
+  - Monthly reviews should be more strategic and look at the larger trends in the markets and expansion plans
 
-# Summary and Recomendations
