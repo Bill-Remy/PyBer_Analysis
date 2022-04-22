@@ -15,6 +15,7 @@ To accomplish the analysis and develop recommendations, the data was summarized 
 - Total Fare Revenue by city type
 - Average fare or revenue per ride
 - Average fare per driver
+The time frame of the analysis is year-to-date through April of 2019.  The sample size of data is relatively small and the ability to review data from a full year cycle would possibly provide more insight.  There could be seasonal patterns that change ride volumes in different city types.
 
 # Results
 
@@ -22,11 +23,15 @@ The results of the analysis are summarized in the table below.
 
 <img src="Resources/Table of Fare Drivers.png" alt="Resources/Table of Fare Drivers.png" width="1000" >
 
+A graphical representation of our results is shown below.  The graph segments fare revenue by city type for our analysis time frame, January to April.
+
+<img src="analyis/Pyber Challenge Fare by City Type.png" alt="analyis/Pyber Challenge Fare by City Type.png" width="1000".
+
 As we know, our business model and revenue are driven by two factors:
 - Population density which drives number of rides or ride frequency
 - Geographic location which drives ride distance.
 
-The summary table clearly shows how the volume of rides increases by more than 10x from Rural to Urban areas.  But the average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  In fact the average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers.
+The summary table clearly shows how the volume of rides increases by more than 10x from Rural to Urban areas.  But the average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  In fact the average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers.  
 
 
 
