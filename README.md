@@ -20,7 +20,7 @@ To accomplish the analysis and develop recommendations, the data was summarized 
 
 The results of the analysis are summarized in the table below.
 
-<img src="Resources/Table of Fare Drivers.png", alt="Resources/Table of Fare Drivers.png">
+<img src="Resources/Table of Fare Drivers" alt="Resources/Table of Fare Drivers.png" width="1000" >
 
 
 
