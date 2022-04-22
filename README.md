@@ -33,9 +33,13 @@ As we know, our business model and revenue are driven by two factors:
 - Population density which drives number of rides or ride frequency
 - Geographic location which drives ride distance.
 
-The summary table clearly shows how the volume of rides increases by more than 10x from Rural to Urban areas.  But the average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  In fact the average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers. 
+The summary table clearly shows how the volume of rides increase by more than 10x from Urban to Rural areas.  The average revenue per ride is highest in the Rural geographies primarily becuase of travel distance.  Average fare per ride is 41% higher for Rural cities compared to Urban cities.  Total Fares or Revenue is of course highest in Urban areas driven by volume of rides and availability of drivers. The Suburban areas consistently fally in between Rual and Urban in all measures.
+Suburan cities have only 38% of the Urban rides but generate slightly less than half as much in total fares.  Consequently, Suburban fares per driver and per ride are measurably better than the Urban cities.  Average fare per ride is about 25% better and fare per driver is about 2.5X the Urban performance.  
 
 Average fare per driver is substantially higher in the Rural cities.  Fare per driver is approximately 3.5x higher for Rural drivers driven by the low number of drivers and distance of rides.  The Urban drivers have a relatively low fare per ride and there is risk of driver turnover due to possible low compensation.  Their market is comprised of mostly shorter rides and if there are too many available drivers they might receive fewer rides.
+
+## Conclusions
+Total fares or revenue will continue to be heavily driven by the Urban cities due to volume of demand for rides.  Suburban cities have excellent driver productivity and if they are outlying areas of Urban centers then can provide good expansion and revenue sources.
 
 Recommendations for the CEO are as follows:
 ## Additional Analysis
