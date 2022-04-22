@@ -25,7 +25,7 @@ The results of the analysis are summarized in the table below.
 
 A graphical representation of our results is shown below.  The graph segments fare revenue by city type for our analysis time frame, January to April.
 
-<img src="analysis/Pyber Challenge Fare by City Type.png" alt="analysis/Pyber Challenge Fare by City Type.png" width="1000".
+<img src="analysis/Pyber Challenge Fare by City Type.png" alt="analysis/Pyber Challenge Fare by City Type.png" width="1000">
 
 As we know, our business model and revenue are driven by two factors:
 - Population density which drives number of rides or ride frequency
