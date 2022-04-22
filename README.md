@@ -49,8 +49,8 @@ In order to better understand the market the following analysis should be initia
 - Expand the data time frame or horizon - minimum of one year 
 
 ## Revenue Growth
--Continue to expand primarily in Urban cities with secondary consideration to Suburban cities.
--Limit Rural growth to areas that are geographic extensions of existing Urban or Suburban servied cities.
+- Continue to expand primarily in Urban cities with secondary consideration to Suburban cities.
+- Limit Rural growth to areas that are geographic extensions of existing Urban or Suburban servied cities.
 
 ##  Managing the Revenue Stream
 - Establish key performance indicators by geography and driver group for both quantity of rides and quality of service.
