@@ -15,6 +15,7 @@ To accomplish the analysis and develop recommendations, the data was summarized 
 - Total Fare Revenue by city type
 - Average fare or revenue per ride
 - Average fare per driver
+
 The time frame of the analysis is year-to-date through April of 2019.  The sample size of data is relatively small and the ability to review data from a full year cycle would possibly provide more insight.  There could be seasonal patterns that change ride volumes in different city types.
 
 # Results
